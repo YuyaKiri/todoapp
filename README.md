@@ -16,6 +16,9 @@ MySQL 8.0
  
 # Usage
  
+At the begging, you should download "ToDo App" files.
+Next you start your terminal and connect a folder including files.
+Then you type "npm start", "ToDo App" 
 You can record you tasks when you insert contents and push "追加".
 
  
