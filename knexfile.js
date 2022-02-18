@@ -10,7 +10,7 @@
   development: {
     client: "mysql",
     connection: {
-      host: "us-cdbr-east-05.cleardb.net", 
+      //host: "us-cdbr-east-05.cleardb.net", 
       database: "heroku_d6b8266eaa8bbb9",
       user: "b12ad4b364fb46",
       password: "672c111e",
