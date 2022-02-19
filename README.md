@@ -1,25 +1,19 @@
+# ToDo App
+
 "ToDo App" is a website to manage your tasks you must to do.
- 
 
  
 # Features
  
 "ToDo App" is designed with Node.js and Express.
-This app connects with a database, so you can record some users.
+This app connects with HEROKU's database "ClearDB", so you can record some users.
 Also your password is safety as applying encryption technology to use hashing.
-
- 
-# Requirement
- 
-MySQL 8.0
 
  
 # Usage
  
-At the begging, you should download "ToDo App" files.
-Next you start your terminal and connect a folder including files.
-Then you type "npm start", "ToDo App" 
-You can record you tasks when you insert contents and push "追加".
+Only you access "https://kiri-todoapp.herokuapp.com/", you can manage you tasks.
+Please input your tasks and enter "追加", this app records you tasks permanently.
 
  
 # Note
