@@ -5,7 +5,7 @@
  
 # Features
  
-"ToDo App" is designed with Node.js and Express.
+"ToDo App" is designed with Node.js and framework:Express.
 This app connects with HEROKU's database "ClearDB", so you can record some users.
 Also your password is safety as applying encryption technology to use hashing.
 
