@@ -25,6 +25,6 @@ I don't test environments under Linux and Mac.
 * Yuya Kiri
  
  
-Please access "ToDo App" as downloading files and running a program on your local host.
+Please access "https://kiri-todoapp.herokuapp.com/" as downloading files and running a program on your local host.
  
 Thank you!
