@@ -11,6 +11,8 @@ const knex = require('../db/knex');
 });
 */
 
+//let todos = [];
+
 /* GET home page. */
 router.get('/', function (req, res, next) {
   //const userId = req.session.userid;
