@@ -2,6 +2,8 @@
 
 //mysql://b12ad4b364fb46:672c111e@us-cdbr-east-05.cleardb.net/heroku_d6b8266eaa8bbb9?reconnect=true
 
+//mysql -u UUUUU -p -h HHHHH
+
 /**
  * @type { Object.<string, import("knex").Knex.Config> }
  */
