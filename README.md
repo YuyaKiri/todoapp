@@ -1,6 +1,6 @@
 # ToDo App
 
-"ToDo App" is a website to manage your tasks you must to do.
+"ToDo App" is  website to manage your tasks you must to do.
 
  
 # Features
