@@ -70,13 +70,13 @@ router.post('/', function(req, res, next){
     });
   });
 
-    /*router.delete('/', function(req, res, next){
-      const isAuth = req.isAuthenticated();
-      const Id = req.body.id;
+router.delete('/', function(req, res, next){
+  const isAuth = req.isAuthenticated();
+  const id = req.body.id;
     
-      knex("tasks")
-      .delete()
-      .where({id: Id})
+    knex("id")
+      .del()
+      .where({id: id})
       .then(function (results) {
         res.render('index', {
           title: 'ToDo App',
@@ -84,7 +84,7 @@ router.post('/', function(req, res, next){
           isAuth: isAuth,
       });
     })
-});*/
+});
 
 router.use('/signup', require('./signup'));
 router.use('/signin', require('./signin'));
