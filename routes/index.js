@@ -3,6 +3,14 @@ const router = express.Router();
 const knex = require('../db/knex');
 //const mysql = require('mysql');
 
+/*const connection = mysql.createConnection({
+  host: 'localhost',
+  user: 'root',
+  password: 'Ayumu0718',
+  database: 'todo_app'
+});
+*/
+
 //let todos = [];
 
 /* GET home page. */
