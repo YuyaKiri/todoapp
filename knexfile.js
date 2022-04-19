@@ -11,8 +11,8 @@
   development: {
     client: "mysql",
     connection: {
-      host: "us-cdbr-east-05.cleardb.net", 
-      database: "heroku_d6b8266eaa8bbb9",
+      host: "XXXXXXXXXXXXXX", 
+      database: "XXXXXXXXXXXXXX",
       user: "XXX",
       password: "XXX",
     },
